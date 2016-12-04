@@ -1,6 +1,86 @@
 # Pregica-IoT: 
 ## An ONG to deal with the data that could make our life better. Free your mind :)
-The Pregica-IoT Project is borning today, 02/12/2016 at 14:28 PM Irish time. Without any funding at this time and completely open source, The projects aims to develop big data silos, based on different domain of interesting, to improve the data share across the globe. The name of the project refers to the "Preguica Animal, found on the Forest Rain".  The project aims to store data from spread sensors and sophisticated algorithms to deal with data crow, plus join together the stored and Real Time data evaluate the how possible is understand the past and the future based on the union of those two worlds.  The Semantic Web provide us the aligners to bridge the Machine to Machine interoperability, at the same time completely understandable by humans. The data linked and aligned data. Basically, the IoT (Internet Of Things) give us the tools to collect and processing streamed data, The Semantic Web give us the tools to align and translate data from machines to human being language.    Plus this project aims to bring the shine of a new possibilities, improvements, quality of life and more, a platform to deal with facts instead of mass media point of view. Too much? We can more because our cause is a better world for all. Join Us!  Ps.: I would like to express my gratitude to NUI Galway, which gave me the opportunity to learn (https://www.insight-centre.org/) as well as The M3 team (http://sensormeasurement.appspot.com/), the best framework to start this project. In especial Dr. Dietrich Rebholz-Schuhmann, Dr. Ratnesh Sahay, Dr. Martin Serrano and Dr. Amelie Gyrard.
+
+# Pregica Node-RED
+This repository aims to centralize hold the customized NodeRED, developed to attend the Pregica Platform requirements, from look and feel to specific nodes.
+
+
+http://nodered.org
+
+[![Build Status](https://travis-ci.org/node-red/node-red.svg)](https://travis-ci.org/node-red/node-red)
+[![Coverage Status](https://coveralls.io/repos/node-red/node-red/badge.svg?branch=master)](https://coveralls.io/r/node-red/node-red?branch=master)
+
+A visual tool for wiring the Internet of Things.
+
+![Node-RED: A visual tool for wiring the Internet of Things](http://nodered.org/images/node-red-screenshot.png)
+
+## Quick Start
+
+Check out http://nodered.org/docs/getting-started/ for full instructions on getting
+started.
+
+1. `sudo npm install -g node-red`
+2. `node-red`
+3. Open <http://localhost:1880>
+
+## Getting Help
+
+More documentation can be found [here](http://nodered.org/docs).
+
+For further help, or general discussion, please use the
+[mailing list](https://groups.google.com/forum/#!forum/node-red).
+
+## Developers
+
+If you want to run the latest code from git, here's how to get started:
+
+1. Install grunt, the build tool
+
+        npm install -g grunt-cli
+
+2. Clone the code:
+
+        git clone https://github.com/node-red/node-red.git
+        cd node-red
+
+3. Install the node-red dependencies
+
+        npm install
+
+4. Build the code
+
+        grunt build
+
+5. Run
+
+        node red.js
+
+## Contributing
+
+Before raising a pull-request, please read our
+[contributing guide](https://github.com/node-red/node-red/blob/master/CONTRIBUTING.md).
+
+This project adheres to the [Contributor Covenant 1.4](http://contributor-covenant.org/version/1/4/).
+ By participating, you are expected to uphold this code. Please report unacceptable
+ behavior to any of the [project's core team](https://github.com/orgs/node-red/teams/core).
+
+## Authors
+
+Node-RED is a creation of [IBM Emerging Technology](https://www.ibm.com/blogs/emerging-technology/).
+
+* Nick O'Leary [@knolleary](http://twitter.com/knolleary)
+* Dave Conway-Jones [@ceejay](http://twitter.com/ceejay)
+
+For more open-source projects from IBM, head over [here](http://ibm.github.io).
+
+## Copyright and license
+
+Copyright 2013, 2016 IBM Corp. under [the Apache 2.0 license](LICENSE).
+
+
+
 ## Come as You Are.. Join Us NOW!
+
+### PS.: Thank you IBM Team :)
 
 
